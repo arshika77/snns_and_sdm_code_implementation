@@ -1,2 +1,2 @@
-# Correlation-Matrix-Memory
-Code implementation of CMM (WIP)
+# Implementation of Sparse Distributed Memory using Spiking Neural Networks
+WIP
